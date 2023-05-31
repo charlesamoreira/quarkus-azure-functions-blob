@@ -1,0 +1,14 @@
+{
+    "disabled": false,
+    "entryPoint" : "org.acme.BlobResource.run",
+    "bindings": [
+        {
+            "name": "file",
+            "type": "blobTrigger",
+            "direction": "in",
+            "path": "myblob/{name}",
+            "connection":"MyStorageAccountAppSetting",
+            "dataType" : "binary"
+        }
+    ]
+}

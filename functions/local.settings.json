@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "BlobEndpoint=https://testeinput.blob.core.windows.net/;QueueEndpoint=https://testeinput.queue.core.windows.net/;FileEndpoint=https://testeinput.file.core.windows.net/;TableEndpoint=https://testeinput.table.core.windows.net/;SharedAccessSignature=sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-05-27T02:32:26Z&st=2023-05-26T18:32:26Z&spr=https,http&sig=aDc5%2Bi4iPz9z0mRrAoCqLNYdV9MR8nLTfVg%2FECp5t1s%3D",
+    "FUNCTIONS_WORKER_RUNTIME": "custom",
+    "MyStorageAccountAppSetting": "BlobEndpoint=https://testeinput.blob.core.windows.net/;QueueEndpoint=https://testeinput.queue.core.windows.net/;FileEndpoint=https://testeinput.file.core.windows.net/;TableEndpoint=https://testeinput.table.core.windows.net/;SharedAccessSignature=sv=2022-11-02&ss=bfqt&srt=sco&sp=rwdlacupiytfx&se=2024-05-27T02:32:26Z&st=2023-05-26T18:32:26Z&spr=https,http&sig=aDc5%2Bi4iPz9z0mRrAoCqLNYdV9MR8nLTfVg%2FECp5t1s%3D",
+    "AzureWebJobsSecretStorageType": "files"
+  }
+}
